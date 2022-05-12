@@ -1,0 +1,1 @@
+# disastersglossary.github.io
