@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Disaster Glossary
+<a href="https://zenodo.org/badge/latestdoi/491628982"><img src="https://zenodo.org/badge/491628982.svg" alt="DOI"></a>
+Hannah R. Spero and Joyce Rivera-Gonzalez
 
 You can use the [editor on GitHub](https://github.com/Spero-Hannah/disastersglossary.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
